@@ -1,6 +1,15 @@
 ![WhatsApp Image 2024-01-15 at 10 46 51](https://github.com/Wilkor/doc-plugin-fura-fila/assets/34819624/acaf6e2b-c51c-435d-ae54-becbc8fe0b47)
 
+
+
 # Como utilizar a extensão AutoMensagem
+
+Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua extensão:
+
+ - Ao lado de Home na tela principal, clique em Blip Store, depois no menu lateral, clique em extensões;
+ - Procure por **AutoMensagem** e clique em ativar **(Instalar em seu bot Router/Roteador)**;
+ - Após a instalação da extensão, siga os passos abaixo;
+
 
 # 1. Introdução 
 A extensão AutoMensagem permite enviar automaticamente uma mensagem de engajamento quando o cliente ultrapassa a sessão de 24h do WhatsApp. 
