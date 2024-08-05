@@ -4,7 +4,8 @@
 
 # 1. Introdução 
 A extensão AutoMensagem permite enviar automaticamente uma mensagem de engajamento quando o cliente ultrapassa a sessão de 24h do WhatsApp. 
-Por exemplo: Imagina que o atendente tenha diversas conversar em seu Blip Desk e não consegue dar atenção para mensagem importante que ultrapassaram a sessão do WhatsApp, com essa extensão, ele não vai se preocupar com isso, pois a AutoMessagem, irá disparar automaticamente uma mensagem para engajar novamente o cliente.
+
+**Por exemplo:** Imagina que o atendente tenha diversas conversar em seu Blip Desk e não consegue dar atenção para mensagem importante que ultrapassaram a sessão do WhatsApp, com essa extensão, ele não vai se preocupar com isso, pois a AutoMessagem, irá disparar automaticamente uma mensagem para engajar novamente o cliente.
 
 # 2. Como funciona? 
 A [AutoMensagem] apresenta as seguintes funcionalidades: 
