@@ -1,6 +1,6 @@
 ![WhatsApp Image 2024-01-15 at 10 46 51](https://github.com/Wilkor/doc-plugin-fura-fila/assets/34819624/acaf6e2b-c51c-435d-ae54-becbc8fe0b47)
 
-# Como utilizar a extensão Fura fila!
+# Como utilizar a extensão AutoMensagem
 
 Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua extensão:
 
