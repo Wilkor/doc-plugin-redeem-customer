@@ -17,7 +17,7 @@ Ela é suportada nos seguintes canais: WhatsApp
 
 Ao ativar a extensão pela Blip Store, ela deverá ser instalada no bot ROUTER. Após sua ativação, você deverá: 
 
-3.1 - Selecionar o bot de Atendimento Humano.
+- 3.1 - Selecionar o bot de Atendimento Humano.
 
 ![image](https://github.com/user-attachments/assets/e32d5dd3-b42c-4298-9515-adbfdd27cfe8)
 
@@ -25,14 +25,14 @@ Ao ativar a extensão pela Blip Store, ela deverá ser instalada no bot ROUTER. 
 
 
 
-3.2 - Após selecionar o bot, selecionar o template que deseja enviar (template/modelo sem variável) como, por exemplo: ‘Olá! Vamos voltar a conversar?’
+- 3.2 - Após selecionar o bot, selecionar o template que deseja enviar (template/modelo sem variável) como, por exemplo: ‘Olá! Vamos voltar a conversar?’
 
 ![image](https://github.com/user-attachments/assets/09b75cac-ec65-4fbb-8077-38d69b118146)
 
 
-3.3 - Após fazer o processo anterior, bastar cliente em Ativar Extensão ou Atualizar, conforme tela acima. 
+- 3.3 - Após fazer o processo anterior, bastar cliente em Ativar Extensão ou Atualizar, conforme tela acima. 
 
-3.4 - Por último, você precisará clicar no link destacado em vermelho, para realizar a instalação da extensão no Google Chrome e ao entrar na tela abaixo, clique em “Usar no Chrome e atualize a tela do BlipDesk.
+- 3.4 - Por último, você precisará clicar no link destacado em vermelho, para realizar a instalação da extensão no Google Chrome e ao entrar na tela abaixo, clique em “Usar no Chrome e atualize a tela do BlipDesk.
 
 ![image](https://github.com/user-attachments/assets/83a6fe65-bd4a-44b4-be84-54d9ba9234df)
 
