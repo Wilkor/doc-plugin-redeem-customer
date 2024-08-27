@@ -67,4 +67,7 @@ Solução: Com a extensão, a empresa pode configurar uma mensagem de engajament
 # 6. Suporte 
 Em caso de dúvidas ou se encontrar algum problema com a extensão, entre em contato conosco pelo email contato@pontoparse.net ou no número 1199484-4060
 
+# 7. Observação
+Como o envio é feito após a janela de 24h, a combrança do template será a mesma dos valores praticados. 
+
 
